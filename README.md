@@ -1,4 +1,4 @@
-# 🕶️ NeoGaze- The Smart Glasses Powered by ESP8266   
+# 🕶️ NeoGaze- The Smart Glasses Powered by ESP8266    
 **NeoGaze** is a lightweight smart glasses system powered by the ESP8266 microcontroller, designed to bring real-time information directly to your eyes — no phone, no hands, no distractions.
 
 This wearable device features a compact OLED display that shows current weather conditions, exchange rates, earthquake alerts, step count, and even messages from a local web server. It combines multiple sensor inputs, including motion detection with an MPU6050, to enable intuitive **tilt-based gesture navigation**.
