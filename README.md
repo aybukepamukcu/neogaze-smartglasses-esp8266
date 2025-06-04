@@ -11,10 +11,10 @@ Feel free to replicate this project using just breadboards and standard componen
 
 Below are detailed images and hardware breakdowns from the project.
 
-<img src="https://github.com/user-attachments/assets/ba2a3fb8-bd45-462b-b1d2-8294abe628a5" width="500">
-<img src="https://github.com/user-attachments/assets/6e95a37a-0b00-4520-97b3-6f35cae7d86a" width="500">
-<img src="https://github.com/user-attachments/assets/a21d1e54-0221-4971-8c4b-9a4db89bb5c0" width="400">
-<img src="https://github.com/user-attachments/assets/ed513cf5-cb33-4193-9e09-407e80f78fd4" width="400">
+<img src="assets/sg-1.png" width="500">
+<img src="assets/sg-2.png" width="500">
+<img src="assets/sg-3.png" width="400">
+<img src="assets/sg-4.png" width="400">
 
 
 ### 🔍 Overview
